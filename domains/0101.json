@@ -1,9 +1,8 @@
 {
-  "owner": {
-    "username": "samrat",
-    "email": "samratmajhi0001@gmail.com"
-  },
-  "records": {
-    "URL": "https://arogya.Ai/"
-  }
+    "owner": {
+        "username": "majhisamrat"
+    },
+    "records": {
+        "CNAME": "arogya.ai"
+    }
 }
